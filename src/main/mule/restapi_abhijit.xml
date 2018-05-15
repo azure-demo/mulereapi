@@ -11,6 +11,6 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 	</http:listener-config>
 	<flow name="restapi_abhijitFlow" doc:id="9166a0e3-60fe-4f6e-b1c2-175943285c9f" >
 		<http:listener doc:name="Listener" doc:id="9ac00976-2a70-40bd-90ec-e93450d81f7e" config-ref="HTTP_Listener_config" path="restapi"/>
-		<set-payload value="#['API Success']" doc:name="Set Payload" doc:id="420d1138-8e99-4987-93cb-7c03686d0f46" />
+		<set-payload value="#['API Success_devops']" doc:name="Set Payload" doc:id="420d1138-8e99-4987-93cb-7c03686d0f46" />
 	</flow>
 </mule>

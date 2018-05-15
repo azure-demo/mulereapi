@@ -1,0 +1,13 @@
+{
+  "sampleData": {
+    "26042e39-5cbb-4763-9be5-84e3a315c2d9": {
+      "payload": "sample_data/defaultstringtype_2.dwl"
+    },
+    "3dc7ebb1-38c3-4aff-ab7a-ab9c0ef3e282": {
+      "payload": "sample_data/defaultstringtype.dwl"
+    },
+    "759db587-cac3-4e3f-a00b-4baefeaaef86": {
+      "payload": "sample_data/defaultstringtype_1.dwl"
+    }
+  }
+}

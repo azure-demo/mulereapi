@@ -36,7 +36,7 @@
 						<muleVersion>4.1.1</muleVersion>
 						<username>ghoshab</username>
 						<password>Liton1985</password>
-						<applicationName>api-test2</applicationName>
+						<applicationName>mule-api</applicationName>
 						<environment>Sandbox</environment>
 						<properties>
 							<key>value</key>
